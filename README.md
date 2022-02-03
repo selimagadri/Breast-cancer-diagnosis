@@ -1,4 +1,4 @@
-# Breast-cancer-diagnosis
+# Breast-Cancer-Diagnosis
 Breast cancer is the second cause of dead among women in the world. Early detection followed by appropriate cancer treatment can reduce the deadly risk. Medical professionals can make mistakes while identifying a disease That's why the help of technology and especially artificial intelligence can substantially improve the diagnosis accuracy. 
 In order to detect the breast masses, we used the deep learning approach and especially the segmentation to help Medical experts identify the desease.
 
